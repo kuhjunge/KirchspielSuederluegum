@@ -1,0 +1,66 @@
+== 22. Geburt und Tod im Kirchspiel.
+
+Die Kurve der Geburten, Todesfälle und Eheschließungen von 1682-1946. (Bearbeitet nach
+Eintragungen in den Kirchenbüchern).
+
+Da uns aus früheren Jahrhunderten sehr wenig Material über Einwohnerzahlen zur Verfügung steht,
+ist es nicht möglich, die Zahl der Geburten, Todesfälle und Eheschließungen zur jeweils vorhandenen
+Gesamtbevölkerung in Beziehung zu setzen und in Prozenten anzugeben. Es liegt nur eine
+Volkszählungsliste aus dem Jahre 1769 vor. Nach dieser hatte das Kirchspiel 957 Einwohner, Danach
+errechnen sich die Geburten auf 2,93 %, die Sterbefälle auf 2,93 % und die Eheschließungen auf
+0,31%, wobei zu berücksichtigen wäre, daß gerade in diesem Jahre besonders wenig Verheiratungen
+stattgefunden haben, nämlich nur drei, während doch in den vor- oder nachfolgenden Jahren 6 - 10
+verzeichnet sind.
+
+Die entsprechenden Zahlen für 1925, als die Einwohnerzahl auf 1121 gestiegen war, sind 2,68%,
+0,89% und 0,80%. Das Beispiel zeigt, was auch ein genaues Studium der Kurven ergibt: Während die
+Geburten eine geringe Abnahme gegen früher aufweisen, ist die Sterbeziffer sehr wesentlich von 2.93
+auf 0,89 abgesunken. Dieser Wechsel hat sich sehr langsam angebahnt. Bis 1790 lag die Sterbezahl
+weit über der Geburtenzahl, dann folgte eine allmähliche Angleichung, und seit 1840 sank sie ständig
+weiter. Wundern wir uns darüber?: Heilkunde, Hebammen- und Ärtztewissenschaft, staatliche Ordnung
+und Aufsicht des Gesundheitswesens, Hygiene, gesundere Wohnungen, Krankenhäuser, Spiel, Turnen
+und Sport usw. finden ihren Niederschlag in diesen Zahlen.
+
+Das die Todeskurve hier und da verdächtige Spitzen aufweist, läßt sich im einzelnen nicht immer
+erklären, da uns die Umstände nicht genügend bekannt sind. Doch sind die Auswirkungen der euro-
+päischen Kriege, die ihre Wellen oft bis in unsern Norden hinein schlugen, deutlich erkennbar. Ebenso
+mögen Epidemien, Sturmfluten, Viehseuchen und Hungerjahre infolge schlechter Ernten die
+Sterblichkeit oft sprunghaft in die Höhe gestrieben haben.
+
+Von 1744 - 1763 fehlen die Kopulationsregister. Sie sind bei dem Pastoratsbrand im Jahre 1827
+verloren gegangen.
+
+Im Jahre 1875 werden die Standesämter eingerichtet. Die standesamtlichen Eintragung decken sich
+nicht genau mit denen der Kirchenbücher. Geburten und Todesfälle in auswärtigen Krankenhäusern
+bedingen kleine Abweichungen, ebenso Kirchenaustritte in den Jahren 1933 - 1945 wie auch
+Wiedereintritt in den ersten Nachkriegsjahren. Daß während langer Kriege - Ich denke an den 1. und
+2. Weltkrieg - die Geburten abnehmen und die Todesfälle steigen, ist eine natürliche Erscheinung, die
+uns allen noch in frischer Erinnerung ist. Da viele Todesfälle auch erst nachträglich gebucht werden
+können, läßt sich nicht jedes Jahr gegen das andere durch Angabe von Zahlen abgrenzen.
+
+Da es nicht jedermanns Sache ist, Kurven zulesen, soll diese Arbeit mit einer Zusammenstellung
+abgeschlossen werden. Sie gibt für jedes Jahrzehnt Durchschnittszahlen an und zeigt, wenn man
+aufmerksam die 1. und 2. Reihe neben einander vergleichend verfolgt, wie hier Leben und Tod
+miteinander gerungen haben, zeigt, wie ausgeführt, die anfängliche Überlegenheit des Sensenmannes,
+dann, wie sie einander die Wage halten, und dann, wie das Leben doch siegt und die Ernte des Todes
+von Jahr zu Jahr abnimmt. Zwar darf man hieraus noch keine Schlüsse auf die Bevölkerungsdichte
+ziehen, da hierbei noch andere Faktoren, besonders, Zu- und Abwanderung, eine nicht geringe Rolle
+spielen.
+
+image::22-GebUndTod.jpg[pdfwidth=90vw]
+
+image::22-GebUndTod2.jpg[pdfwidth=90vw]
+
+image::22-GebUndTod3.jpg[pdfwidth=90vw]
+
+image::22-GebUndTod4.jpg[pdfwidth=90vw]
+
+Der Durchschnitt der Geburten, Sterbefälle und Eheschließungen ist in der folgenden Tabelle für jedes
+Jahrzehnt berechnet (bearbeitet von H.W. Rerup nach Daten von Johann von Böhl, 1993):
+
+image::22-GebUndTod5.jpg[pdfwidth=90vw]
+
+Die Tabelle der Jahrzehnte-Durchschnitte der Geburten, Sterbefälle und Eheschließungen sind hier als
+Kurven angegeben:
+
+image::22-GebUndTod6.jpg[pdfwidth=90vw]

@@ -1,0 +1,31 @@
+= Haus- und Hofchronik des Kirchspiels Süderlügum
+Chris Deter <quhberta@gmail.com>
+v0.1, 2020-07-14
+:revdate: 2020-07-14
+:encoding: utf-8
+:lang: de
+// :imagesdir: pics
+:homepage: http://quhfan.de
+// Inhaltsverzeichnis
+:toc:
+:toc-title: Inhaltsverzeichnis 
+// Styling
+:doctype: book
+:stylesheet: medium.css
+:pdf-page-margin: [0.8in]
+
+von
+Johann von Böhl
+Bearbeitet von Dr. Hans W. Rerup
+1993, North Vancouver, Canada
+und
+einem Arbeitskreis
+interessierter Bürger
+aus Süderlügum
+1995
+Die Bearbeitung und
+die Drucklegung wurde von der
+Raiffeisenbank Südtondern eG
+Süderlügum großzügig gefördert
+
+include::24-HausUndHofchronik.adoc[]

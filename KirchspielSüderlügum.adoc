@@ -1,0 +1,82 @@
+= Kirchspiel Süderlügum
+Chris Deter <quhfan.de>
+v0.1, 2021-05-28
+:revdate: 2021-05-28
+:encoding: utf-8
+:lang: de
+:imagesdir: pics
+:homepage: http://quhfan.de
+// Inhaltsverzeichnis
+:toc:
+:toc-title: Inhaltsverzeichnis 
+// Styling
+:doctype: book
+:stylesheet: style/medium.css
+:epub3-stylesdir: style
+:pdf-page-margin: [0.8in]
+:front-cover-image: image:cover.jpg[Front Cover,1050,1485]
+
+von +
+Johann von Böhl +
+Bearbeitet von Dr. Hans W. Rerup +
+1993, North Vancouver, Canada +
+und +
+einem Arbeitskreis +
+interessierter Bürger +
+aus Süderlügum +
+1995 +
+Die Bearbeitung und +
+die Drucklegung wurde von der +
+Raiffeisenbank Südtondern eG +
+Süderlügum großzügig gefördert
+
+
+include::0-vorwort.adoc[]
+
+include::1-LageUndNamen.adoc[]
+
+include::2-EnstehungUnseresBodens.adoc[]
+
+include::3-DieLaendlichenBesitzverhaeltnisse.adoc[]
+
+include::4-DerAlteWald.adoc[]
+
+include::5-DieDorfwillkuer.adoc[]
+
+include::6-DerKampfGegenDieHeide.adoc[]
+
+include::7-DieFeldaufteilungInUnserenDoerfern.adoc[]
+
+include::8-unsereMoore.adoc[]
+
+include::9-DerKarrharderAltenKoog.adoc[]
+
+include::10-DieEntwicklungDerLandwirtschaft.adoc[]
+
+include::11-HandwerkUndGewerbe.adoc[]
+
+include::12-HandelUndVerkehr.adoc[]
+
+include::13-VerwaltungUndRecht.adoc[]
+
+include::14-SteuernUndAbgaben.adoc[]
+
+include::15-SuederluegumUndTondern.adoc[]
+
+include::16-EinStreifzugDurchDieSiedlungsgeschichte.adoc[]
+
+include::17-DieGeschichteDesArmenwesensImKirchpsielLuegum.adoc[]
+
+include::18-DieFreiwilligeFeuerwehr.adoc[]
+
+include::19-AusDerGeschichteDerKirche.adoc[]
+
+include::20-Schulwesen.adoc[]
+
+include::21-Bemerkungen-Struxbuell.adoc[]
+
+include::22-GeburtUndTodImKirchspiel.adoc[]
+
+include::23-KleinereBeitraege.adoc[]
+
+include::24-HausUndHofchronik.adoc[]
