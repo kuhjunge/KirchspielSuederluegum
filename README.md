@@ -8,3 +8,5 @@ Zum [Inhaltsverzeicnis](KirchspielSüderlügum.adoc)
 [Download PDF](https://github.com/kuhjunge/KirchspielSuederluegum/releases/download/1.0.0/KirchspielSuderlugum_compressed.pdf) 
 
 [Download EPUB](https://github.com/kuhjunge/KirchspielSuederluegum/releases/download/1.0.0/KirchspielSuderlugum.epub)
+
+[Onlineversion](http://suederluegum.quhfan.de/)
