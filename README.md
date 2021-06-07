@@ -1,5 +1,5 @@
 # Kirchspiel Süderlügum
-Das Kirchspiel Süderlügums mit der Geschichte Süderlügums in digitaler Form.
+Das Kirchspiel Süderlügum enthält die Geschichte Süderlügum's / Chronik Süderlügum's in digitaler Form.
 
 basierend auf der Arbeit von Johann von Böhl und  Hans W. Rerup.
 
